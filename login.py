@@ -1,5 +1,5 @@
 # This is a prototype of the login unit for our Robo-Advisor.
-# 
+# For testing purposes, passwords are hashed using hashlib.md5 and stored in passwords.py
 
 import hashlib
 from passwords import USERS

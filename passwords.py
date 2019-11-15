@@ -1,3 +1,5 @@
+# used to generate a dictionary of usernames and hashed passwords for testing purposes
+
 import hashlib
 
 USERS = {
